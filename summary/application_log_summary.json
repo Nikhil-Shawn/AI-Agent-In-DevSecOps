@@ -1,0 +1,13 @@
+{
+    "total_logs": 1000000,
+    "error_logs": 571838,
+    "avg_tokens_per_request": 4.198440817154509,
+    "total_tokens": 2400828,
+    "estimated_gpt4_cost_usd": 24.008,
+    "status_counts": {
+        "502": 143556,
+        "403": 143014,
+        "500": 142729,
+        "404": 142539
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "deployment": {
+        "total": 1327,
+        "filtered": 296,
+        "avg_tokens": 34.4222972972973,
+        "total_tokens": 10189,
+        "cost_usd": 0.102,
+        "level_counts": {
+            "ERROR": 171,
+            "INFO": 115,
+            "WARN": 10
+        }
+    }
+}

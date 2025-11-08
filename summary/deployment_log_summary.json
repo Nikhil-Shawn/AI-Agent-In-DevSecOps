@@ -1,0 +1,12 @@
+{
+    "total_logs": 2000,
+    "filtered_logs": 573,
+    "avg_tokens_per_message": 5.698080279232112,
+    "total_tokens": 3265,
+    "estimated_gpt4_cost_usd": 0.033,
+    "log_level_counts": {
+        "WARN": 209,
+        "ERROR": 206,
+        "INFO": 158
+    }
+}
